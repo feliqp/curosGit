@@ -2,4 +2,8 @@ chanchito feliz
 otro chanchito
 tengo 40 años
 
+<<<<<<< HEAD
 esta si lo quiero dejar
+=======
+Tengo todo
+>>>>>>> master
