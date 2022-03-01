@@ -1,1 +1,1 @@
-# curosGit
+# cursoGit
